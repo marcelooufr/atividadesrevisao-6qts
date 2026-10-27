@@ -1,3 +1,4 @@
+// nao consegui fazer o codigo funcionar por nao saber como nomear as funcoes e organizar o codigo
 function converterParaSegundos(minutos, segundos) {
     return (minutos * 60) + segundos;
 }
