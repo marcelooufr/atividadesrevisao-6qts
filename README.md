@@ -1,5 +1,6 @@
 # atividadesrevisao-6qts
-atividades Aula 22
+atividades Aula 22/10
+
 1- Algumas táticas são usar palavras-chave relacionadas ao assunto do site, criar títulos e descrições claros, produzir conteúdos originais e úteis, adicionar textos alternativos nas imagens e usar links entre páginas. Também é importante deixar o site rápido e adaptado para celulares, pois isso melhora a experiência dos usuários.
 
 Referência: Google. Guia de SEO para iniciantes 
