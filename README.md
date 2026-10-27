@@ -3,7 +3,7 @@ atividades Aula 22/10
 
 1- Algumas táticas são usar palavras-chave relacionadas ao assunto do site, criar títulos e descrições claros, produzir conteúdos originais e úteis, adicionar textos alternativos nas imagens e usar links entre páginas. Também é importante deixar o site rápido e adaptado para celulares, pois isso melhora a experiência dos usuários.
 
-Referência: Google. Guia de SEO para iniciantes 
+Referência: Google. Guia de SEO para iniciantes E conversion.com.br
 
 2- O Bootstrap, por exemplo, permite criar sites responsivos usando um sistema de grid, colunas, breakpoints e classes que adaptam o layout conforme o tamanho da tela. Assim, o site consegue funcionar melhor em celulares, tablets e computadores.
 
