@@ -9,4 +9,4 @@ Referência: Google. Guia de SEO para iniciantes E conversion.com.br
 
 Referência: Documentação oficial do Materialize CSS
 
-3- Escolhi o YouTube, que é um site que eu acesso bastante. Ele tem uma boa responsividade, pois adapta os vídeos, menus e imagens para diferentes tamanhos de tela. No celular, a navegação é simples e os vídeos se ajustam bem. Porém, dependendo do tamanho da tela, alguns textos e botões podem ficar pequenos. No geral, considero que ele é bem adaptado para diferentes dispositivos.
+3- Escolhi o YouTube, que é um site que eu acesso bastante. Ele tem uma boa responsividade, pois adapta os vídeos, menus e imagens para diferentes tamanhos de tela. No celular, a navegação é simples e os vídeos se ajustam bem. Porém, dependendo do tamanho da tela, alguns textos e botões ficam pequenos ou muito grandes, mas atrapalha so na estetica, No geral, considero que ele é bem adaptado para diferentes dispositivos.
