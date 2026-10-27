@@ -5,8 +5,7 @@ atividades Aula 22/10
 
 Referência: Google. Guia de SEO para iniciantes E conversion.com.br
 
-2- Sim, o Materialize tem.
-O Bootstrap, por exemplo, permite criar sites responsivos usando um sistema de grid, colunas, breakpoints e classes que adaptam o layout conforme o tamanho da tela. Assim, o site consegue funcionar melhor em celulares, tablets e computadores.
+2- Sim, o Materialize tem, ele permite criar sites responsivos usando um sistema de grid, colunas, breakpoints e classes que adaptam o layout conforme o tamanho da tela. Assim, o site consegue funcionar melhor em celulares, tabletsou computadores.
 
 Referência: Documentação oficial do Materialize CSS
 
